@@ -1,2 +1,2 @@
 # ShaderCGINCS
-Some useful Unity Shader Function. 
+Some useful Unity Shader Functions. 
